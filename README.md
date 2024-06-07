@@ -1,4 +1,12 @@
 # todo_list
+
+Todo app
+Users can easily create, save, and organize their daily tasks. shows the tasks you
+need to complete for the day and a check mark for when you complete it, you can
+effortlessly add new todos, delete outdated ones, update existing tasks, and
+efficiently search through your todo list. this app depends on firebase and Provider
+state management
+
 ![Logo](https://github.com/RamezMostafaa/ToDo-App/assets/163503357/9c5d9a84-23fa-4226-bd91-b6fdd103d501)
 ![splashScreenLight](https://github.com/RamezMostafaa/ToDo-App/assets/163503357/6a89f2d9-dbb9-4a88-b069-0082205b10ce)
 ![regester](https://github.com/RamezMostafaa/ToDo-App/assets/163503357/6153a8bf-db33-4a90-8cdd-c4fc7c9de264)
